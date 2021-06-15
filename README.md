@@ -10,7 +10,7 @@ python -m spacy download en_core_web_sm
 安装指南见 https://spacy.io/usage   
 ## 📚 *学习建议*
 pytorch快速学习指南
-https://pytorch.org/tutorials/beginner/basics/intro.html
+https://pytorch.org/tutorials/beginner/basics/intro.html   
 pytorch文档   
 https://pytorch.org/docs/master/   
 spaCy   
@@ -35,4 +35,4 @@ https://spacy.io/models/zh
 | **dev.conllu** | 41817 | 1700 |40117
 | **train.conllu** | 989860 | 39832 | 950028
 | **test.conllu** | 59100 | 2416 | 56684
-en-cw：130000行 每行51个数据（单词文本，50个浮点数）
+
